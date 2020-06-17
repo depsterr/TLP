@@ -1,5 +1,5 @@
 ./tpacpi-bat
-./tlp-pcilist
+./tlp-pcilist <replaced>
 ./.git/hooks/fsmonitor-watchman.sample
 ./tlp-usblist
 ./tlp-readconfs.in

@@ -1,3 +1,7 @@
+# What is this fork?
+
+This is an attempt at removing perl from tlp and replacing it with shell. It's aim is to make tlp more portable.
+
 # TLP - Optimize Linux Laptop Battery Life
 TLP is a feature-rich command line utility for Linux, saving laptop battery power
 without the need to delve deeper into technical details.
